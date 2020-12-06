@@ -9,6 +9,6 @@ All the functionalities are in working condition for example search, create new 
 To Run the Test cases execute command "npm run test"
 
 Packages used are:
-React
-React Redux
+React,
+React Redux,
 Enzyme for testing
